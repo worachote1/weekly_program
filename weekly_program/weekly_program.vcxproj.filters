@@ -18,5 +18,8 @@
     <ClCompile Include="week1_solution1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="week1_solution_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
