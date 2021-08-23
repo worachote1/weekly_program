@@ -10,7 +10,7 @@ int main(void) {
     for (int i = 0; i < 4; i++) {
         if (num[i] % 2 == 0) {
             sum += 1;
-        }
+        } 
     }
     printf("%d", sum);
     return 0;
