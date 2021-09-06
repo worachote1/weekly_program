@@ -33,5 +33,11 @@
     <ClCompile Include="week4_solution_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="week5_solution_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week5_solution_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
