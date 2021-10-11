@@ -57,5 +57,11 @@
     <ClCompile Include="week8_solution_2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="week9_solution_1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="week9_solution_2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
